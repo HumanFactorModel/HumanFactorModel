@@ -80,6 +80,7 @@
 *   案例请查看 [应用案例](./CASES.md)
 *   宣言全文请查看 [人为因素大模型宣言](./MANIFESTO.md)
 *   AI时代成语96条请查看 [96-idioms.md](./96-idioms.md)
+*   完整著作请查看 [心感学全书](./xinganxue/volume-01/README.md)
 
 **版本历史**
 
