@@ -1,3 +1,4 @@
+> 心感学™ 是张宇创立的自主知识体系品牌。Heart-Mind Science and HFM are trademarks of Zhang Yu.
 # 人为因素大模型(HFM)·项目说明
 
 **全球首套将人类心理感受量化为12因子96元素坐标的开源认知体系**
